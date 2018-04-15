@@ -1,0 +1,6 @@
+c:\users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\bin\Debug\MainConsole.exe.config
+C:\Users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\bin\Debug\MainConsole.exe
+C:\Users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\bin\Debug\MainConsole.pdb
+C:\Users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\obj\Debug\MainConsole.csprojResolveAssemblyReference.cache
+C:\Users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\obj\Debug\MainConsole.exe
+C:\Users\renato\documents\visual studio 2015\Projects\MainConsole\MainConsole\obj\Debug\MainConsole.pdb
